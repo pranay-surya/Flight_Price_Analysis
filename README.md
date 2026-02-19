@@ -1,5 +1,5 @@
 # ✈️ SkyPrice Analytics | Flight Price Intelligence
-
+[![Live Demo](https://img.shields.io/badge/Live_App-View_Dashboard-239120?style=for-the-badge&logo=streamlit)](https://flightpriceanalysis-001.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
@@ -7,6 +7,7 @@
 
 **SkyPrice Analytics** is an interactive, enterprise-grade data visualization and machine learning dashboard built with Streamlit. It enables users to perform in-depth Exploratory Data Analysis (EDA) on historical flight data, uncover market trends, and utilize a built-in Random Forest regression model to predict future flight ticket prices.
 
+👉 **[Access the Live Application Here](https://flightpriceanalysis-001.streamlit.app/)**
 ---
 
 ##  Key Features
